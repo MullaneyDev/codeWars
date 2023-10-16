@@ -1,3 +1,5 @@
+# Sum 2 Lowest Integers
+
 The given problem was create a function that would add together the two smallest integers in a given array
 
 Attempt 1

@@ -1,3 +1,5 @@
+# Even or Odd
+
 The problem here is to create a function that can determine wether a given number is even or odd.
 
 Solution 1

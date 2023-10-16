@@ -1,3 +1,5 @@
+# Find the smallet integer
+
 The intial problem is to give the lowest value from an array
 
 The solution was to sort the array using the Math.min operation
