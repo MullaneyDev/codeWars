@@ -8,5 +8,5 @@ If the remainder was equal to 0 then it would return Even to the terminal.
 If the remainder was not equal to 0 then it would return Odd to the terminal.
 
 Solution 2
-This solution is identicle in its function to Solution 1 but it has been written as a ternery operation. 
+This solution is identicle in its function to Solution 1 but it has been written as a ternery operation.
 This was completed after being shown ternery operator during a session.
